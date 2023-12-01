@@ -1,7 +1,5 @@
 ## Folder Structure:
 
-The Cypress folder is organized into five sub-folders:
-
 1. **fixtures Holds test data.
 2. **pageObjects includes page locators and methods for each page.
 3. **playwright-report has html report
