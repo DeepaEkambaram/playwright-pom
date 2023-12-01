@@ -19,15 +19,15 @@ The Cypress folder is organized into five sub-folders:
 1 Node.js 12 or above
 
 2. Go to root folder of playwright project and run 
-### `npm-install`
+### `npm install`
 
 ### Steps:
 
 1. **Test Execution from Terminal/CLI
-### `npx-playwright test` - Runs all specs
+### `npx playwright test` - Runs all specs
 
 2. **Test Execution on a specific test
-### `npx-playwright test specName.ts`
+### `npx playwright test specName.ts`
 
 3.Reports will be automatically generated under playwright-report folder
 open the 'index.html' file in the browser
